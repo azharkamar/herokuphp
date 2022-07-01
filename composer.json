@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Azhar Kamar",
+        "email": "azhar_kamar@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
